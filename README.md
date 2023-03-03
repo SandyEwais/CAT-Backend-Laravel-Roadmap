@@ -21,9 +21,9 @@
 ## 🔭 Project
 
 - Steps
- - step one
- - step two
- - step three
+  - step one
+  - step two
+  - step three
 
 ## ⭐ Laravel
 
@@ -36,9 +36,9 @@
 ## 🔭 Project
 
 - Steps
- - step one
- - step two
- - step three
+  - step one
+  - step two
+  - step three
 
 ## ⭐ API
 
@@ -47,6 +47,6 @@
 ## 🔭 Project
 
 - Steps
- - step one
- - step two
- - step three
+  - step one
+  - step two
+  - step three
