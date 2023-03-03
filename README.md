@@ -20,7 +20,10 @@
 
 ## 🔭 Project
 
-- Testing
+- Steps
+ - step one
+ - step two
+ - step three
 
 ## ⭐ Laravel
 
@@ -32,7 +35,10 @@
 
 ## 🔭 Project
 
-- Testing
+- Steps
+ - step one
+ - step two
+ - step three
 
 ## ⭐ API
 
@@ -40,4 +46,7 @@
 
 ## 🔭 Project
 
-- Testing
+- Steps
+ - step one
+ - step two
+ - step three
